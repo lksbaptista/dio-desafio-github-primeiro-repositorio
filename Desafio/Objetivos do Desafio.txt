@@ -1,0 +1,4 @@
+Agora é a hora de brilhar, use todo seu conhecimento em Git e Github para criar o seu próprio repositório. 
+Com isso, em breve você terá muitos outros projetos no seu perfil do GitHub.
+
+Desta forma, outros Devs ou empresas poderão acessar seu portifólio de projetos e colaborar/acompanhar sua evolução profissional ;)
